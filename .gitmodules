@@ -22,3 +22,6 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = git://github.com/scrooloose/syntastic.git
+[submodule "bundle/debugger"]
+	path = bundle/debugger
+	url = git://github.com/mbenegas/DBGp-client.git
