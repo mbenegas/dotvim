@@ -56,7 +56,7 @@ if has('mouse')
     set mouse=a
 endif
 
-colorscheme inkpot
+colorscheme solarized
 set cursorline
 
 set number
@@ -66,7 +66,7 @@ set listchars=tab:.>,trail:.,extends:#,nbsp:.
 
 " Formatting
 let g:SimpleJsIndenter_BriefMode = 1
-set nowrap
+set wrap
 set autoindent
 set shiftwidth=4
 set expandtab
