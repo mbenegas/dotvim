@@ -25,3 +25,6 @@
 [submodule "bundle/debugger"]
 	path = bundle/debugger
 	url = git://github.com/mbenegas/DBGp-client.git
+[submodule "bundle/apiblueprint.vim"]
+	path = bundle/apiblueprint.vim
+	url = https://github.com/kylef/apiblueprint.vim.git
